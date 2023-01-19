@@ -3,17 +3,20 @@ project:
 
 website:
   title: "Resume-and-info"
+  
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: resume.qmd
+        text: Resume
+      
 
 format:
   html:
     theme:
-      light: cosmo
-      dark: [cosmo, theme-dark.scss]
+      light: journal
+      dark: cyborg
     css: styles.css
     toc: true
 
