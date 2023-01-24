@@ -11,8 +11,8 @@ website:
         text: Home
       - href: resume.qmd
         text: Resume
-      - text: "Economics Papers"
-        menu:
+      #- text: "Economics Papers"
+       # menu:
           #- text: ""
           #  href: RCommands.html
           #- text: "R Markdown Hints"
