@@ -2,11 +2,6 @@
 title: "Resume"
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
-library(vitae)
-```
-
 \# Tyson Brost
 
 \## Intro
@@ -18,18 +13,6 @@ I'm a Junior studying economics, and data science at BYU-Idaho. Former small bus
 \</div\>
 
 ## Education
-
-```{r}
-library(tibble)
-library(pander)
-pander(tribble(
-  ~ Degree, ~ Year, ~ Institution, ~ Where,
-  "Informal studies", "1889-91", "Flying University", "Warsaw, Poland",
-  "Master of Physics", "1893", "Sorbonne Université", "Paris, France",
-  "Master of Mathematics", "1894", "Sorbonne Université", "Paris, France"
-) %>% 
-  detailed_entries(Degree, Year, Institution, Where))
-```
 
 ### Sept 2020 - Dec 2024
 

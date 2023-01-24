@@ -29,6 +29,7 @@ pander(tribble(
 ```
 
 ## 
+
 Internships
 
 ::: {#Experience .panel-tabset}
@@ -83,9 +84,8 @@ Ongoing analysis of product demands for roughly 100 unique products with multipl
 
 -   Creation of an additional dynamic dashboard using a variety of import methods and SQL queries within Google sheets to pull company inventory levels and predicted demands for each product from the aforementioned demand dashboard. This Order Dashboard allows viewing of monthly inventory levels based on current levels, any inbound items (in the process of shipping), as well as selectively estimate and include late products (old orders that haven't been shipped yet), as well as predicted orders and arrivals.
 
-```{=html}
 <!-- -->
-```
+
 -   In-depth analysis of the target market, I then created a group of documents and tools for sales reps to utilize when working with customers to further up-sell and expose them to new products.
 :::
 
@@ -109,7 +109,7 @@ This was used to help plan and promote specific industries within the area and i
 
 Primary research assistant to Economics professor until graduation.
 
--    Working with professors to collect educational data through Canvas software API's
+-   Working with professors to collect educational data through Canvas software API's
 
 -   As data is collected we will begin using it to empirically analyze the effectiveness of various teaching methods and strategies in efforts to improve learning and teaching efficiency at various conceptual levels for students.
 
@@ -219,15 +219,13 @@ Worked primarily with Spanish speaking immigrants;
 -   Bi-lingual (Spanish)
 -   Coding Languages; R, Python, MySQL, Java
 
-```{=html}
 <!-- -->
-```
+
 -   Power BI / RShiny
 -   Google Sheets Query
 
-```{=html}
 <!-- -->
-```
+
 -   Honesty
 
 -   Dedicated Worker
@@ -242,7 +240,7 @@ Worked primarily with Spanish speaking immigrants;
 
 ### CERTIFICATIONS AND LICENSES
 
--    Drivers License
+-   Drivers License
 
 -   Fundamentals Power BI - Microsoft
 
