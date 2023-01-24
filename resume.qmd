@@ -37,7 +37,7 @@ Internships
 
 ### **Advisors Excel**
 
-#### Marketing Operations Intern, Topeka, KS
+#### Marketing Operations Intern - Topeka, KS
 
 *April 2022 - Aug 2022*
 
@@ -58,13 +58,15 @@ Advised on future growth solutions as part of a Data Analytics and Management re
 
 Built Power-BI dashboards for website data analytics, creating an unprecedented view of aggregate and comparison level data across websites allowing for actionable analysis for the development team.
 
--   Researched and developed R-scripts to efficiently call and aggregate website traffic and interaction data using google analytics API's for the 1800+ individual websites managed by AE.
+-   Researched and developed R-scripts to efficiently call and aggregate website traffic and interaction data using Google analytics API's for the 1800+ individual websites managed by AE.
 
 -   Wrangled and formatted data within Power-BI to show actionable insights and trends based on individual, comparison, and aggregate site data.
 
 ## Website Migration
 
--   
+Managed a small sub-team as part of a larger effort to aggregate and reorganize over 15 separate corporate websites containing thousands of documents, multimedia, and blog posts into a collected whole.
+
+-   Utilized excel and various WordPress plugins to automate significant portions of the project.
 :::
 
 ### Hot Cup Factory
@@ -83,15 +85,12 @@ Ongoing analysis of product demands for roughly 100 unique products with multipl
 ## Products
 
 -   Creation of an additional dynamic dashboard using a variety of import methods and SQL queries within Google sheets to pull company inventory levels and predicted demands for each product from the aforementioned demand dashboard. This Order Dashboard allows viewing of monthly inventory levels based on current levels, any inbound items (in the process of shipping), as well as selectively estimate and include late products (old orders that haven't been shipped yet), as well as predicted orders and arrivals.
-
-<!-- -->
-
 -   In-depth analysis of the target market, I then created a group of documents and tools for sales reps to utilize when working with customers to further up-sell and expose them to new products.
 :::
 
 ### Research & Business Development Center
 
-###### Research Analyst, Rexburg, ID
+###### Research Analyst - Rexburg, ID
 
 *July 2021 - Sep 2021*
 
@@ -103,7 +102,7 @@ This was used to help plan and promote specific industries within the area and i
 
 ### Brigham Young University - Idaho
 
-###### Research Assistant, Rexburg, ID
+###### Research Assistant - Rexburg, ID
 
 *Sep 2022 - Present*
 
@@ -141,7 +140,7 @@ Collaborated with other students to build Google app scripts to automate many tr
 
 ### The Happy Hut Shaved Ice
 
-###### Owner, Topeka, KS
+###### Owner - Topeka, KS
 
 *March 2016 - August 2020*
 
@@ -155,7 +154,7 @@ Collaborated with other students to build Google app scripts to automate many tr
 
 ### ALDI
 
-###### Stocking Associate, Topeka, KS
+###### Stocking Associate - Topeka, KS
 
 *May 2020 -- August 2020*
 
@@ -163,7 +162,7 @@ Worked early mornings with a small team and power jacks to stock and prepare the
 
 ### Hazel Hill Chocolates
 
-###### Cashier/Closer, Topeka, KS
+###### Cashier/Closer - Topeka, KS
 
 *December 2015 - May 2016*
 
@@ -175,7 +174,7 @@ Worked early mornings with a small team and power jacks to stock and prepare the
 
 ### Sunrise Homes
 
-###### Framer, Rexburg, ID
+###### Framer - Rexburg, ID
 
 *Sept 2020 - April 2021*
 
@@ -183,7 +182,7 @@ Performed general framing labor building residential homes in and around Rexburg
 
 ### Top Knot Arborists
 
-###### Arborist, St Louis, Mi
+###### Arborist - St Louis, Mi
 
 *July 2020 - Sept 2020*
 
@@ -191,7 +190,7 @@ Worked with a small team in St. Louis Missouri trimming, and removing large tree
 
 ### Builder Bees LLC
 
-###### General Construction, Topeka, KS
+###### General Construction - Topeka, KS
 
 *May 2015 - September 2015*
 
@@ -214,7 +213,7 @@ Worked primarily with Spanish speaking immigrants;
 
 -   General service
 
-## SKILLS
+## Skills
 
 -   Bi-lingual (Spanish)
 -   Coding Languages; R, Python, MySQL, Java
@@ -238,7 +237,7 @@ Worked primarily with Spanish speaking immigrants;
 
 -   Digital Marketing/Social Media Management
 
-### CERTIFICATIONS AND LICENSES
+### Certifications and Licences
 
 -   Drivers License
 
