@@ -28,11 +28,9 @@ pander(tribble(
 ))
 ```
 
-## 
+## Internships
 
-Internships
-
-::: {#Experience .panel-tabset}
+::: {#Internships_Info .panel-tabset}
 ## Business
 
 ### **Advisors Excel**
@@ -135,7 +133,11 @@ Work 1-on-1 with students or groups of students to help tutor and assist them in
 Built a dynamic searching tool for tutor managers within Google sheets that utilizes query functions to import various spreadsheets and allow visualization of what times and days tutors are available by course.
 
 Collaborated with other students to build Google app scripts to automate many traditionally manual tasks saving managers \~10 hours a week from time spent writing repetitive emails/texts.
+:::
 
+## Industry Experience
+
+::: {#Experience .panel-tabset}
 ## Food Service
 
 ### The Happy Hut Shaved Ice
@@ -215,15 +217,13 @@ Worked primarily with Spanish speaking immigrants;
 
 ## Skills
 
+-   Coding Languages; R, Python, PySpark, MySQL, DAX, M, Java
+-   Power BI / RShiny / DataBricks
+-   Google Sheets SQL Query
+
+<!-- -->
+
 -   Bi-lingual (Spanish)
--   Coding Languages; R, Python, MySQL, Java
-
-<!-- -->
-
--   Power BI / RShiny
--   Google Sheets Query
-
-<!-- -->
 
 -   Honesty
 
