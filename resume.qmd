@@ -2,6 +2,35 @@
 title: "Resume"
 ---
 
+
+<style type="text/css">
+.main-container {
+  max-width: 90% !important;
+  margin: auto;
+}
+</style>
+
+<script type="text/javascript">
+ function showhide(id) {
+    var e = document.getElementById(id);
+    e.style.display = (e.style.display == 'block') ? 'none' : 'block';
+ }
+ 
+ function openTab(evt, tabName) {
+    var i, tabcontent, tablinks;
+    tabcontent = document.getElementsByClassName("tabcontent");
+    for (i = 0; i < tabcontent.length; i++) {
+        tabcontent[i].style.display = "none";
+    }
+    tablinks = document.getElementsByClassName("tablinks");
+    for (i = 0; i < tablinks.length; i++) {
+        tablinks[i].className = tablinks[i].className.replace(" active", "");
+    }
+    document.getElementById(tabName).style.display = "block";
+    evt.currentTarget.className += " active";
+ }    
+</script>
+
 # Tyson Brost
 
 ## Intro
@@ -22,7 +51,7 @@ library(pander)
 ## Education
 
 | Degree              | Year                  | Institution                      | Location       | Notes                                                           |
-|---------------------|----------|-------------|--------|---------------------|
+|----------------|--------------|--------------|--------------|----------------|
 | BS of Economics     | 2020-2024             | Brigham Young University - Idaho | Rexburg, Idaho | Minors in: Data Science, Statistics, Spanish                    |
 | High-School         | 2014-2018             | Washburn Rural                   | Topeka, Kansas |                                                                 |
 | Masters / Doctorate | Anticipated 2025-2027 | TBD                              | TBD            | Seeking programs in Macro-economics and Developmental economics |
@@ -39,6 +68,10 @@ library(pander)
 *April 2022 - Aug 2022*
 
 Collaborated with a variety of teams and individuals across the marketing and IT departments on projects providing data and process insights and implementation strategies.
+<a href="javascript:showhide('detailsAE')"
+style="font-size:.6em;">(More Details)</a>
+
+<div id="detailsAE" style="display:none;">
 
 ::: panel-tabset
 ## Growth Solutions
@@ -50,6 +83,8 @@ Advised on future growth solutions as part of a Data Analytics and Management re
 -   Met with and analyzed data situations and needs of each division of the marketing department
 
 -   Aggregated and compared findings from interviews and pitches with companies and their abilities to meet the specific needs of each division at Advisors Excel (AE)
+
+
 
 ## Analytics Aggregation
 
@@ -66,7 +101,9 @@ Managed a small sub-team as part of a larger effort to aggregate and reorganize 
 -   Utilized excel and various WordPress plugins to automate significant portions of the project.
 :::
 
-### Hot Cup Factory
+</div>
+
+### **Hot Cup Factory**
 
 ###### Business Development Specialist - Rexburg, ID
 
@@ -243,3 +280,6 @@ Worked primarily with Spanish speaking immigrants;
 -   Spreadsheet Modeling - Harvard
 
 -   Bloomberg Market Concepts
+
+
+
