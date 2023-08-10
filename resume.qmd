@@ -1,15 +1,19 @@
 ---
 title: "Resume"
+format: 
+  html: 
+    page-layout: full
 ---
 
-
+```{=html}
 <style type="text/css">
 .main-container {
   max-width: 90% !important;
   margin: auto;
 }
 </style>
-
+```
+```{=html}
 <script type="text/javascript">
  function showhide(id) {
     var e = document.getElementById(id);
@@ -30,7 +34,7 @@ title: "Resume"
     evt.currentTarget.className += " active";
  }    
 </script>
-
+```
 # Tyson Brost
 
 ## Intro
@@ -50,11 +54,77 @@ library(pander)
 
 ## Education
 
-| Degree              | Year                  | Institution                      | Location       | Notes                                                           |
-|----------------|--------------|--------------|--------------|----------------|
-| BS of Economics     | 2020-2024             | Brigham Young University - Idaho | Rexburg, Idaho | Minors in: Data Science, Statistics, Spanish                    |
-| High-School         | 2014-2018             | Washburn Rural                   | Topeka, Kansas |                                                                 |
-| Masters / Doctorate | Anticipated 2025-2027 | TBD                              | TBD            | Seeking programs in Macro-economics and Developmental economics |
+| Degree                                | Year                  | Institution                      | Location       | Notes                                                           |
+|---------------|---------------|---------------|---------------|---------------|
+| Dual BS of Economics and Data Science | 2020-2024             | Brigham Young University - Idaho | Rexburg, Idaho | Minors in: Mathmatics, Statistics, Spanish                      |
+| High-School                           | 2014-2018             | Washburn Rural                   | Topeka, Kansas |                                                                 |
+| Masters / Doctorate                   | Anticipated 2025-2027 | TBD                              | TBD            | Seeking programs in Macro-economics and Developmental economics |
+
+## Consulting
+
+### **IWorQ**
+
+#### Technical Project Manager - Remote
+
+*Arranged through the Research and Business Development Center Based out of Rexburg, ID*
+
+*April 2023 - Aug 2023*
+
+Lead a small team of consultants and coordinated between the client and my team to ensure consistent communication and management of expectations and project scope throughout the duration of the project. Our task was to design and implement and automated analytics dashboard that would allow the client to better understand and react to their consumers activity and needs when using the software provided by the client. <a href="javascript:showhide('detailsIworq')"
+style="font-size:.6em;">(More Details)</a>
+
+::: {#detailsIworq style="display:none;"}
+::: panel-tabset
+## Data Loading and Cleaning
+
+Developed a primary script in R which that accessed the clients stored analytics data, cleaned, arranged, summarized and prepared it for analysis before storing it in the clients desired database system. Its primary abilites are as follows:
+
+-   Accesses an Amazon S3 Bucket through Amazons API service.
+
+-   Dynamically loads new files to local machine
+
+-   Wrangles and cleans files using time stamp and function call data to calculate active user time and usage data metrics.
+
+-   Saves resulting clean files as partitioned and compressed parquet files in an Amazon S3 server while preserving a local machine backup
+
+## Analytics Application
+
+Built a large scale Power-BI dashboard for SAAS data analytics, allowing the customer service and client leadership to quickly understand and learn the trends in usage and client activity for new and existing clients.
+
+-   Worked extensively to coordinate expectations and results of graphical and tabular summaries between the client and my team to ensure both the clients outlined and underlying needs were met and exceeded when possible.
+
+-   Developed secodary script in R that loads and aggregates a customizable range of historical cleaned data from the partitioned clean data stored in Amazon S3 into Power BI.
+
+-   Lead project team through a change in the primary metric of measurement as the needs of the client became more apparent during the duration of our project
+
+## Automation
+
+Researched, tested and implemented fully automated systems provided by windows OS and the Microsoft Power Suite to schedule all scripts, datasets, reports, and dashboards to refresh weekly.
+:::
+:::
+
+### **Westmark Credit Union**
+
+#### Technical Project Consultant - Remote
+
+*Arranged through the Research and Business Development Center Based out of Rexburg, ID*
+
+*Jan 2023 - Apr 2023*
+
+Worked as part of a small team to study and examine consumer data before building an interactive data exploration application embedded into a website for the client. <a href="javascript:showhide('detailsWestmark')"
+style="font-size:.6em;">(More Details)</a>
+
+::: {#detailsWestmark style="display:none;"}
+::: panel-tabset
+## Data Analysis
+
+Worked with another project member to trial methods of trend and spike identification within consumer patterns.
+
+## Application
+
+Took primary dashboard built by the rest of the team and overhauled it by adding user interactive selection, searching, and filtering features before converting it into a web hosted report dashboard easily shareable and accessible to members within the clients organization.
+:::
+:::
 
 ## Internships
 
@@ -67,12 +137,10 @@ library(pander)
 
 *April 2022 - Aug 2022*
 
-Collaborated with a variety of teams and individuals across the marketing and IT departments on projects providing data and process insights and implementation strategies.
-<a href="javascript:showhide('detailsAE')"
+Collaborated with a variety of teams and individuals across the marketing and IT departments on projects providing data and process insights and implementation strategies. <a href="javascript:showhide('detailsAE')"
 style="font-size:.6em;">(More Details)</a>
 
-<div id="detailsAE" style="display:none;">
-
+::: {style="display:none;"}
 ::: panel-tabset
 ## Growth Solutions
 
@@ -83,8 +151,6 @@ Advised on future growth solutions as part of a Data Analytics and Management re
 -   Met with and analyzed data situations and needs of each division of the marketing department
 
 -   Aggregated and compared findings from interviews and pitches with companies and their abilities to meet the specific needs of each division at Advisors Excel (AE)
-
-
 
 ## Analytics Aggregation
 
@@ -100,8 +166,7 @@ Managed a small sub-team as part of a larger effort to aggregate and reorganize 
 
 -   Utilized excel and various WordPress plugins to automate significant portions of the project.
 :::
-
-</div>
+:::
 
 ### **Hot Cup Factory**
 
@@ -280,6 +345,3 @@ Worked primarily with Spanish speaking immigrants;
 -   Spreadsheet Modeling - Harvard
 
 -   Bloomberg Market Concepts
-
-
-
