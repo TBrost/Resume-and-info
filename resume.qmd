@@ -60,8 +60,9 @@ library(pander)
 | High-School                           | 2014-2018             | Washburn Rural                   | Topeka, Kansas |                                                                 |
 | Masters / Doctorate                   | Anticipated 2025-2027 | TBD                              | TBD            | Seeking programs in Macro-economics and Developmental economics |
 
-## Consulting
 
+## Consulting
+::: {#Consulting_Info .panel-tabset}
 ### **IWorQ**
 
 #### Technical Project Manager - Remote
@@ -77,7 +78,7 @@ style="font-size:.6em;">(More Details)</a>
 ::: panel-tabset
 ## Data Loading and Cleaning
 
-Developed a primary script in R which that accessed the clients stored analytics data, cleaned, arranged, summarized and prepared it for analysis before storing it in the clients desired database system. Its primary abilites are as follows:
+Developed a primary script in R which that accessed the clients stored analytics data, cleaned, arranged, summarized and prepared it for analysis before storing it in the clients desired database system. Its primary abilities are as follows:
 
 -   Accesses an Amazon S3 Bucket through Amazons API service.
 
@@ -123,6 +124,7 @@ Worked with another project member to trial methods of trend and spike identific
 ## Application
 
 Took primary dashboard built by the rest of the team and overhauled it by adding user interactive selection, searching, and filtering features before converting it into a web hosted report dashboard easily shareable and accessible to members within the clients organization.
+:::
 :::
 :::
 
