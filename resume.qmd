@@ -60,8 +60,8 @@ library(pander)
 | High-School                           | 2014-2018             | Washburn Rural                   | Topeka, Kansas |                                                                 |
 | Masters / Doctorate                   | Anticipated 2025-2027 | TBD                              | TBD            | Seeking programs in Macro-economics and Developmental economics |
 
-
 ## Consulting
+
 ::: {#Consulting_Info .panel-tabset}
 ### **IWorQ**
 
@@ -94,7 +94,7 @@ Built a large scale Power-BI dashboard for SAAS data analytics, allowing the cus
 
 -   Worked extensively to coordinate expectations and results of graphical and tabular summaries between the client and my team to ensure both the clients outlined and underlying needs were met and exceeded when possible.
 
--   Developed secodary script in R that loads and aggregates a customizable range of historical cleaned data from the partitioned clean data stored in Amazon S3 into Power BI.
+-   Developed secondary script in R that loads and aggregates a customizable range of historical cleaned data from the partitioned clean data stored in Amazon S3 into Power BI.
 
 -   Lead project team through a change in the primary metric of measurement as the needs of the client became more apparent during the duration of our project
 
@@ -123,7 +123,7 @@ Worked with another project member to trial methods of trend and spike identific
 
 ## Application
 
-Took primary dashboard built by the rest of the team and overhauled it by adding user interactive selection, searching, and filtering features before converting it into a web hosted report dashboard easily shareable and accessible to members within the clients organization.
+Took primary dashboard built by the rest of the team and overhauled it by adding user interactive selection, searching, and filtering features before converting it into a web hosted report dashboard easily share-able and accessible to members within the clients organization.
 :::
 :::
 :::
@@ -164,7 +164,7 @@ Built Power-BI dashboards for website data analytics, creating an unprecedented 
 
 ## Website Migration
 
-Managed a small sub-team as part of a larger effort to aggregate and reorganize over 15 separate corporate websites containing thousands of documents, multimedia, and blog posts into a collected whole.
+Lead a small sub-team as part of a larger effort to aggregate and reorganize over 15 separate corporate websites containing thousands of documents, multimedia, and blog posts into a collected whole.
 
 -   Utilized excel and various WordPress plugins to automate significant portions of the project.
 :::
