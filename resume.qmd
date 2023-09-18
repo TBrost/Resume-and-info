@@ -71,14 +71,14 @@ library(pander)
 
 *April 2023 - Aug 2023*
 
-Lead a small team of consultants and coordinated between the client and my team to ensure consistent communication and management of expectations and project scope throughout the duration of the project. Our task was to design and implement and automated analytics dashboard that would allow the client to better understand and react to their consumers activity and needs when using the software provided by the client. <a href="javascript:showhide('detailsIworq')"
+Lead a small team of consultants and coordinated between the client and my team to ensure consistent communication and management of expectations and project scope throughout the duration of the project. Our task was to design and implement an automated analytics dashboard that would allow the client to better understand and react to their consumers activity and needs when using the software provided by the client. <a href="javascript:showhide('detailsIworq')"
 style="font-size:.6em;">(More Details)</a>
 
 ::: {#detailsIworq style="display:none;"}
 ::: panel-tabset
 ## Data Loading and Cleaning
 
-Developed a primary script in R which that accessed the clients stored analytics data, cleaned, arranged, summarized and prepared it for analysis before storing it in the clients desired database system. Its primary abilities are as follows:
+Developed a primary script in R which accessed the clients stored analytics data, cleaned, arranged, summarized and prepared it for analysis before storing it in the clients desired database system. Its primary abilities are as follows:
 
 -   Accesses an Amazon S3 Bucket through Amazons API service.
 
@@ -142,7 +142,7 @@ Took primary dashboard built by the rest of the team and overhauled it by adding
 Collaborated with a variety of teams and individuals across the marketing and IT departments on projects providing data and process insights and implementation strategies. <a href="javascript:showhide('detailsAE')"
 style="font-size:.6em;">(More Details)</a>
 
-::: {style="display:none;"}
+::: {#detailsAE style="display:none;"}
 ::: panel-tabset
 ## Growth Solutions
 
