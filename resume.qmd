@@ -39,11 +39,12 @@ format:
 
 ## Intro
 
-I'm a Junior studying economics, and data science at BYU-Idaho. Former small business owner and operator, experienced in a wide variety of fields ranging from general construction to customer service and business management. I have a passion for analyzing systems and finding new ways to innovate in order to improve efficiency and effectiveness.
+I'm a Senior studying economics, and data science at BYU-Idaho. Former small business owner and operator, experienced in a wide variety of fields ranging from general construction to customer service and business management. I have a passion for analyzing systems and finding new ways to innovate in order to improve efficiency and effectiveness.
 
 My schooling is focused on model interpretation and building, specifically in multivariate models, utilizing analysis and application of economic theory/policy as well as applied linear regression and econometrics.
 
 [tyson.brost\@gmail.com](tyson.brost@gmail.com) [Linkedin](https://www.linkedin.com/in/tyson-brost-3604481b8) [Github](https://tbrost.github.io)
+[1-page Resume](https://docs.google.com/document/d/1wU7IQUc0Kg04vYIlZyI4EgMJSZ2Rc8ZARxMeNnUa-G8/edit?usp=sharing)
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
@@ -54,11 +55,10 @@ library(pander)
 
 ## Education
 
-| Degree                                | Year                  | Institution                      | Location       | Notes                                                           |
+| Degree                                | Year      | Institution                      | Location       | Notes                                      |
 |---------------|---------------|---------------|---------------|---------------|
-| Dual BS of Economics and Data Science | 2020-2024             | Brigham Young University - Idaho | Rexburg, Idaho | Minors in: Mathmatics, Statistics, Spanish                      |
-| High-School                           | 2014-2018             | Washburn Rural                   | Topeka, Kansas |                                                                 |
-| Masters / Doctorate                   | Anticipated 2025-2027 | TBD                              | TBD            | Seeking programs in Macro-economics and Developmental economics |
+| Dual BS of Economics and Data Science | 2020-2024 | Brigham Young University - Idaho | Rexburg, Idaho | Minors in: Mathmatics, Statistics, Spanish |
+| High-School                           | 2014-2018 | Washburn Rural                   | Topeka, Kansas |                                            |
 
 ## Consulting
 
